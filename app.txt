@@ -1,1 +1,1 @@
- "First version of my application"
+"Updated version of my application"
